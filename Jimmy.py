@@ -17,8 +17,9 @@ def menu():
 	 .##....##....##....##.....##.##....##..##...##.
 	 ..######.....##....##.....##.##.....##.##....##
 
->>CREATED BY:ANIKET STARK
->>SUBSCRIBE CHANNEL:GamersTech330
+>>CREATED BY:JIMMY
+>>INSTAGRAM:jimmy4online
+>>FACEBOOK:jimmy4hacking
 
 >>Fuck ya<<
 >>>ONLY FOR TERMUX<<<
